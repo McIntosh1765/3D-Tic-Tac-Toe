@@ -1,13 +1,3 @@
-# 3D-Tic-Tac-Toe/
-│── basic_3d_tic_tac_toe.py
-Console-based version
-
-│── gui_3d_tic_tac_toe.py         GUI version (Pygame)
-
-│── README.md                     Documentation
-
-│── .gitignore                     (Optional: Ignore unnecessary files)
-
 # 3D Tic-Tac-Toe
 This repository contains two versions of 3D Tic-Tac-Toe:
 
